@@ -8,7 +8,11 @@ Aquí se resolverá el examen parcial 1 de bioinformática
 
 - **Cédula:** 1500894694
 
+- **Edad:** 21 años
+
 *Características del computador:*
+
+- **Marca:** hp
 
 - **Edición de Windows:** Windows 10 Enterprise 
 
@@ -20,8 +24,12 @@ Aquí se resolverá el examen parcial 1 de bioinformática
 
 *Programas utilizados:*
 
-- Gitbash
+- Git Bash
 
-- ll
+- Git Hub
+
+- Anaconda Navigator
+
+- Jupyterlab
 
 *Explicación de la data utilizada:*
