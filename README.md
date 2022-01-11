@@ -22,4 +22,6 @@ Aquí se resolverá el examen parcial 1 de bioinformática
 
 - Gitbash
 
--
+- ll
+
+*Explicación de la data utilizada:*
